@@ -1,8 +1,4 @@
-
-.idea/html5-webpack-styles-boilerplate.iml
-.idea/inspectionProfiles/
-.idea/modules.xml
-.idea/workspace.xml
+.idea
 /node_modules
+/dist
 dis/
-node_modules/
